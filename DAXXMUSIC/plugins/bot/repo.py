@@ -50,8 +50,6 @@ InlineKeyboardButton("𝗦𝗧𝗥𝗜𝗡𝗚 𝗕𝗢𝗧 ", url=f"https://git
 [
 InlineKeyboardButton("𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧 𝗕𝗢𝗧", url=f"https://github.com/Sagexdd/MANAGEMENT"),
 InlineKeyboardButton("𝗖𝗛𝗔𝗧 𝗕𝗢𝗧", url=f"https://github.com/Sagexdd/CHATBOT"),
-],
-
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
