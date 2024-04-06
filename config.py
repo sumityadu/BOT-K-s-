@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","synaxxx")
+OWNER_USERNAME = getenv("OWNER_USERNAME","sage_xd")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME")
 # --------------------------------------------------------
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Sagexdd/SYNAXMUSIC",
+    "https://github.com/Sagexdd/SAGE_MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/synax_support")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/synax_support")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/sage_bot_support")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/team_sage_xd")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
