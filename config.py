@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1001919135283))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002004619729))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6753014811))
+OWNER_ID = int(getenv("OWNER_ID", 6769798391)
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Sagexdd/SAGE_MUSIC",
+    "https://github.com/sukunasayzz/sukunasayzz",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/sage_bot_support")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/team_sage_xd")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SPEED_NETWORK1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/sexysoulnet")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,21 +141,21 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/2ea054f7f71f42f21aa1c.mp4, https://telegra.ph/file/0ff705341d643e3b2926a.mp4, https://telegra.ph/file/891b5be9af9619804390f.mp4"
+    "START_IMG_URL", "https://telegra.ph/file/f7604352c5eb325bbf0e1.jpg, https://telegra.ph/file/f7604352c5eb325bbf0e1.jpg, https://telegra.ph/file/f7604352c5eb325bbf0e1.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/72d7164d4dfd6f8a0d486.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/f7604352c5eb325bbf0e1.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/aaf2f59a6c6001454963d.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/c19e2d110f91805301abe.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/48f39202823b358203234.jpg"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/e575ae40d6635250974e1.jpg"
-STREAM_IMG_URL = "https://telegra.ph/file/03efec694e41e891b29dc.jpg"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-YOUTUBE_IMG_URL = "https://telegra.ph/file/4dc854f961cd3ce46899b.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/6c741a6bc1e1663ac96fc.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/6c741a6bc1e1663ac96fc.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/f7604352c5eb325bbf0e1.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/f7604352c5eb325bbf0e1.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/f7604352c5eb325bbf0e1.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/f7604352c5eb325bbf0e1.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/f7604352c5eb325bbf0e1.jpg"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/file/f7604352c5eb325bbf0e1.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/f7604352c5eb325bbf0e1.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/f7604352c5eb325bbf0e1.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/f7604352c5eb325bbf0e1.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/f7604352c5eb325bbf0e1.jpg"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
